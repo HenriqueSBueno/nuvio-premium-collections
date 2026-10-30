@@ -36,7 +36,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/recommended.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/discover/recommended.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -60,7 +60,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-recommended.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/discover-recommended.webp"
       },
       {
         "id": "collections.discover.popular",
@@ -95,7 +95,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/popular.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/discover/popular.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -119,7 +119,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-popular.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/discover-popular.webp"
       },
       {
         "id": "collections.discover.trending",
@@ -154,7 +154,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/trending.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/discover/trending.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -178,7 +178,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-trending.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/discover-trending.webp"
       },
       {
         "id": "collections.discover.top-rated",
@@ -213,7 +213,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/top-rated.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/discover/top-rated.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -237,7 +237,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-top-rated.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/discover-top-rated.webp"
       },
       {
         "id": "d52313e3-23ca-4bb1-85c6-800447295788",
@@ -298,10 +298,10 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/minisseries.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/discover/minisseries.webp",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-minisseries.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/discover-minisseries.webp"
       }
     ],
     "pinToTop": true,
@@ -347,7 +347,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/netflix.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/netflix.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -371,7 +371,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-netflix.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-netflix.webp"
       },
       {
         "id": "collections.streaming.prime-video",
@@ -406,7 +406,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/prime-video.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/prime-video.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -430,7 +430,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-prime-video.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-prime-video.webp"
       },
       {
         "id": "collections.streaming.disney-plus",
@@ -465,7 +465,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/disney-plus.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/disney-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -489,7 +489,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-disney-plus.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-disney-plus.webp"
       },
       {
         "id": "collections.streaming.hbo-max",
@@ -524,7 +524,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/hbo-max.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/hbo-max.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -548,7 +548,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-hbo-max.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-hbo-max.webp"
       },
       {
         "id": "collections.streaming.apple-tv",
@@ -583,7 +583,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/apple-tv.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/apple-tv.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -607,7 +607,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-apple-tv.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-apple-tv.webp"
       },
       {
         "id": "collections.streaming.paramount-plus",
@@ -642,7 +642,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/paramount-plus.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/paramount-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -666,7 +666,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-paramount-plus.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-paramount-plus.webp"
       },
       {
         "id": "collections.streaming.crunchyroll",
@@ -701,7 +701,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/crunchyroll.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/crunchyroll.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -725,7 +725,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-crunchyroll.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-crunchyroll.webp"
       },
       {
         "id": "collections.streaming.discovery-plus",
@@ -760,7 +760,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/discovery-plus.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/discovery-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -784,7 +784,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-discovery-plus.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-discovery-plus.webp"
       },
       {
         "id": "collections.streaming.starz",
@@ -819,7 +819,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/starz.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/streaming/starz.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -843,7 +843,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-starz.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/streaming-starz.webp"
       }
     ],
     "pinToTop": true,
@@ -900,7 +900,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/action.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/action.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -934,7 +934,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-action.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-action.webp"
       },
       {
         "id": "collections.genres.fantasy",
@@ -980,7 +980,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/fantasy.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/fantasy.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1014,7 +1014,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-fantasy.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-fantasy.webp"
       },
       {
         "id": "collections.genres.drama",
@@ -1049,7 +1049,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/drama.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/drama.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1073,7 +1073,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-drama.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-drama.webp"
       },
       {
         "id": "collections.genres.comedy",
@@ -1108,7 +1108,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/comedy.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/comedy.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1132,7 +1132,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-comedy.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-comedy.webp"
       },
       {
         "id": "collections.genres.thriller",
@@ -1156,7 +1156,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/thriller.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/thriller.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1170,7 +1170,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-thriller.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-thriller.webp"
       },
       {
         "id": "collections.genres.crime",
@@ -1205,7 +1205,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/crime.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/crime.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1229,7 +1229,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-crime.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-crime.webp"
       },
       {
         "id": "collections.genres.horror",
@@ -1253,7 +1253,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/horror.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/horror.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1267,7 +1267,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-horror.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-horror.webp"
       },
       {
         "id": "collections.genres.romance",
@@ -1291,7 +1291,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/romance.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/romance.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1305,7 +1305,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-romance.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-romance.webp"
       },
       {
         "id": "collections.genres.mystery",
@@ -1340,7 +1340,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/mystery.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/mystery.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1364,7 +1364,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-mystery.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-mystery.webp"
       },
       {
         "id": "collections.genres.animation",
@@ -1399,7 +1399,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/animation.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/animation.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1423,7 +1423,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-animation.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-animation.webp"
       },
       {
         "id": "collections.genres.anime",
@@ -1612,7 +1612,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/anime.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/anime.webp",
         "catalogSources": [
           {
             "type": "anime",
@@ -1776,7 +1776,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-anime.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-anime.webp"
       },
       {
         "id": "collections.genres.family",
@@ -1811,7 +1811,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/family.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/family.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1835,7 +1835,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-family.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-family.webp"
       },
       {
         "id": "collections.genres.history",
@@ -1881,7 +1881,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/history.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/history.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1915,7 +1915,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-history.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-history.webp"
       },
       {
         "id": "collections.genres.documentary",
@@ -1950,7 +1950,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/documentary.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/documentary.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1974,7 +1974,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-documentary.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-documentary.webp"
       },
       {
         "id": "collections.genres.music",
@@ -1998,7 +1998,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/music.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/music.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2012,7 +2012,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-music.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-music.webp"
       },
       {
         "id": "collections.genres.western",
@@ -2047,7 +2047,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/western.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/western.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2071,7 +2071,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-western.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-western.webp"
       },
       {
         "id": "collections.genres.reality",
@@ -2106,7 +2106,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/reality.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/genres/reality.webp",
         "catalogSources": [
           {
             "type": "series",
@@ -2130,7 +2130,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-reality.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/genres-reality.webp"
       }
     ],
     "pinToTop": true,
@@ -2176,7 +2176,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/time-travel.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/time-travel.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2200,7 +2200,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-time-travel.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-time-travel.webp"
       },
       {
         "id": "collections.themes.revenge",
@@ -2235,7 +2235,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/revenge.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/revenge.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2259,7 +2259,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-revenge.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-revenge.webp"
       },
       {
         "id": "collections.themes.spy",
@@ -2294,7 +2294,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/spy.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/spy.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2318,7 +2318,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-spy.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-spy.webp"
       },
       {
         "id": "collections.themes.magic",
@@ -2353,7 +2353,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/magic.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/magic.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2377,7 +2377,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-magic.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-magic.webp"
       },
       {
         "id": "collections.themes.k-drama",
@@ -2412,7 +2412,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/k-drama.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/k-drama.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2436,7 +2436,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-k-drama.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-k-drama.webp"
       },
       {
         "id": "collections.themes.treasure-hunt",
@@ -2471,7 +2471,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/treasure-hunt.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/treasure-hunt.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2495,7 +2495,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-treasure-hunt.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-treasure-hunt.webp"
       },
       {
         "id": "collections.themes.romantic-comedy",
@@ -2530,7 +2530,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/romantic-comedy.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/romantic-comedy.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2554,7 +2554,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-romantic-comedy.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-romantic-comedy.webp"
       },
       {
         "id": "collections.themes.coming-of-age",
@@ -2589,7 +2589,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/coming-of-age.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/coming-of-age.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2613,7 +2613,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-coming-of-age.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-coming-of-age.webp"
       },
       {
         "id": "collections.themes.superhero",
@@ -2648,7 +2648,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/superhero.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/superhero.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2672,7 +2672,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-superhero.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-superhero.webp"
       },
       {
         "id": "collections.themes.space",
@@ -2707,7 +2707,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/space.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/space.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2731,7 +2731,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-space.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-space.webp"
       },
       {
         "id": "collections.themes.martial-arts",
@@ -2766,7 +2766,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/martial-arts.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/martial-arts.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2790,7 +2790,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-martial-arts.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-martial-arts.webp"
       },
       {
         "id": "collections.themes.vampire",
@@ -2825,7 +2825,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/vampire.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/vampire.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2849,7 +2849,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-vampire.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-vampire.webp"
       },
       {
         "id": "collections.themes.satire",
@@ -2884,7 +2884,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/satire.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/themes/satire.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2908,7 +2908,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-satire.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/themes-satire.webp"
       }
     ],
     "pinToTop": true,
@@ -2954,7 +2954,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/marvel.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/studios/marvel.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2978,7 +2978,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-marvel.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/studios-marvel.webp"
       },
       {
         "id": "collections.studios.dc",
@@ -3013,7 +3013,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/dc.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/studios/dc.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3037,7 +3037,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-dc.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/studios-dc.webp"
       },
       {
         "id": "collections.studios.pixar",
@@ -3072,7 +3072,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/pixar.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/studios/pixar.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3096,7 +3096,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-pixar.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/studios-pixar.webp"
       },
       {
         "id": "collections.studios.lucasfilm",
@@ -3131,7 +3131,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/lucasfilm.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/studios/lucasfilm.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3155,7 +3155,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-lucasfilm.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/studios-lucasfilm.webp"
       },
       {
         "id": "collections.studios.ghibli",
@@ -3190,7 +3190,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/ghibli.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/studios/ghibli.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3214,7 +3214,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-ghibli.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/studios-ghibli.webp"
       },
       {
         "id": "collections.studios.dreamworks",
@@ -3249,7 +3249,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/dreamworks.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/studios/dreamworks.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3273,7 +3273,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-dreamworks.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/studios-dreamworks.webp"
       },
       {
         "id": "collections.studios.cartoon-network",
@@ -3308,7 +3308,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/cartoon-network.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/studios/cartoon-network.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3332,7 +3332,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-cartoon-network.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/studios-cartoon-network.webp"
       },
       {
         "id": "collections.studios.nickelodeon",
@@ -3367,7 +3367,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/nickelodeon.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/studios/nickelodeon.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3391,7 +3391,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-nickelodeon.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/studios-nickelodeon.webp"
       }
     ],
     "pinToTop": true,
@@ -3437,7 +3437,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/2020s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/decades/2020s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3461,7 +3461,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-2020s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/decades-2020s.webp"
       },
       {
         "id": "collections.decades.2010s",
@@ -3496,7 +3496,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/2010s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/decades/2010s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3520,7 +3520,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-2010s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/decades-2010s.webp"
       },
       {
         "id": "collections.decades.2000s",
@@ -3555,7 +3555,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/2000s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/decades/2000s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3579,7 +3579,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-2000s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/decades-2000s.webp"
       },
       {
         "id": "collections.decades.1990s",
@@ -3614,7 +3614,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1990s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/decades/1990s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3638,7 +3638,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1990s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/decades-1990s.webp"
       },
       {
         "id": "collections.decades.1980s",
@@ -3673,7 +3673,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1980s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/decades/1980s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3697,7 +3697,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1980s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/decades-1980s.webp"
       },
       {
         "id": "collections.decades.1970s",
@@ -3732,7 +3732,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1970s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/decades/1970s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3756,7 +3756,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1970s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/decades-1970s.webp"
       },
       {
         "id": "collections.decades.1960s",
@@ -3791,7 +3791,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1960s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/decades/1960s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3815,7 +3815,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1960s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/decades-1960s.webp"
       },
       {
         "id": "collections.decades.1950s",
@@ -3850,7 +3850,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1950s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/decades/1950s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3874,7 +3874,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1950s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/decades-1950s.webp"
       }
     ],
     "pinToTop": true,
@@ -3920,7 +3920,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/brazilian.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/brazilian.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -3944,7 +3944,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-brazilian.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-brazilian.webp"
       },
       {
         "id": "collections.world.latin-american",
@@ -3979,7 +3979,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/latin-american.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/latin-american.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4003,7 +4003,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-latin-american.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-latin-american.webp"
       },
       {
         "id": "collections.world.korean",
@@ -4038,7 +4038,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/korean.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/korean.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4062,7 +4062,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-korean.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-korean.webp"
       },
       {
         "id": "collections.world.japanese",
@@ -4097,7 +4097,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/japanese.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/japanese.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4121,7 +4121,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-japanese.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-japanese.webp"
       },
       {
         "id": "collections.world.french",
@@ -4156,7 +4156,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/french.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/french.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4180,7 +4180,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-french.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-french.webp"
       },
       {
         "id": "collections.world.spanish",
@@ -4215,7 +4215,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/spanish.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/spanish.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4239,7 +4239,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-spanish.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-spanish.webp"
       },
       {
         "id": "collections.world.italian",
@@ -4274,7 +4274,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/italian.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/italian.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4298,7 +4298,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-italian.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-italian.webp"
       },
       {
         "id": "collections.world.german",
@@ -4333,7 +4333,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/german.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/german.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4357,7 +4357,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-german.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-german.webp"
       },
       {
         "id": "collections.world.nordic",
@@ -4392,7 +4392,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/nordic.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/nordic.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4416,7 +4416,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-nordic.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-nordic.webp"
       },
       {
         "id": "collections.world.indian",
@@ -4451,7 +4451,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/indian.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/indian.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4475,7 +4475,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-indian.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-indian.webp"
       },
       {
         "id": "collections.world.chinese",
@@ -4510,7 +4510,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/chinese.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/chinese.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4534,7 +4534,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-chinese.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-chinese.webp"
       },
       {
         "id": "collections.world.russian",
@@ -4569,7 +4569,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/russian.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/russian.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4593,7 +4593,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-russian.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-russian.webp"
       },
       {
         "id": "collections.world.turkish",
@@ -4628,7 +4628,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/turkish.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/world/turkish.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -4652,7 +4652,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-turkish.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v2/art/color/hero/world-turkish.webp"
       }
     ],
     "pinToTop": true,

@@ -18,7 +18,8 @@ SRC = os.path.join(ROOT, "nuvio-collections-profile-1-2026-10-30.json")
 OUT = os.path.join(ROOT, "premium-set")
 CACHE = os.path.join(OUT, ".cache")
 W, H = 1280, 720
-HERO_W, HERO_H = 1920, 1080
+HERO_W, HERO_H = 1600, 900
+TILE_QUALITY, HERO_QUALITY = 80, 70  # jsDelivr refuses tagged packages over 50 MB
 TARGET_MEAN = .34
 LOGO_AREA = 34000
 COLOR_SATURATION = .9
@@ -215,7 +216,7 @@ def contact_sheet(tiles, variant):
                 y += th + gap
             sheet.paste(tile[2].resize((tw, th), Image.LANCZOS), (gap + (i % cols) * (tw + gap), y))
         y += th + gap
-    sheet.save(os.path.join(OUT, f"preview-{variant}.png"))
+    sheet.save(os.path.join(OUT, f"preview-{variant}.jpg"), "JPEG", quality=78, optimize=True)
 
 
 def build(variant, source):
@@ -238,8 +239,8 @@ def build(variant, source):
             hero = f"art/{variant}/hero/{short}-{name}.webp"
             for path in (rel, hero):
                 os.makedirs(os.path.dirname(os.path.join(OUT, path)), exist_ok=True)
-            image.save(os.path.join(OUT, rel), "WEBP", quality=86, method=6)
-            grade(fit(raw, HERO_W, HERO_H), variant).save(os.path.join(OUT, hero), "WEBP", quality=82, method=6)
+            image.save(os.path.join(OUT, rel), "WEBP", quality=TILE_QUALITY, method=6)
+            grade(fit(raw, HERO_W, HERO_H), variant).save(os.path.join(OUT, hero), "WEBP", quality=HERO_QUALITY, method=6)
             tiles.append((ctitle, title, image))
             folder.update(title=title, tileShape="LANDSCAPE", hideTitle=True, coverEmoji=None,
                           focusGifUrl=None, focusGifEnabled=False, heroVideoUrl=None, titleLogoUrl=None,
