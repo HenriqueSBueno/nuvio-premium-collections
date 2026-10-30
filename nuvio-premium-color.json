@@ -1,0 +1,4664 @@
+[
+  {
+    "id": "collections-discover",
+    "title": "Para Você",
+    "folders": [
+      {
+        "id": "collections.discover.recommended",
+        "title": "Recomendados",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "trakt.recommendations.movies",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "trakt.recommendations.shows",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/recommended.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "trakt.recommendations.movies",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "trakt.recommendations.shows",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-recommended.webp"
+      },
+      {
+        "id": "collections.discover.popular",
+        "title": "Populares",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.top",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.top",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/popular.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.top",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.top",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-popular.webp"
+      },
+      {
+        "id": "collections.discover.trending",
+        "title": "Em Alta",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Day",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.trending",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Day",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.trending",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/trending.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Day",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.trending",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Day",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.trending",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-trending.webp"
+      },
+      {
+        "id": "collections.discover.top-rated",
+        "title": "Mais Bem Avaliados",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.top_rated",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.top_rated",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/top-rated.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.top_rated",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.top_rated",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-top-rated.webp"
+      },
+      {
+        "id": "d52313e3-23ca-4bb1-85c6-800447295788",
+        "title": "Minisséries",
+        "sources": [
+          {
+            "title": "Descobrir TMDB Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": 0,
+            "filters": {
+              "year": null,
+              "withGenres": null,
+              "watchRegion": null,
+              "voteCountGte": 0,
+              "withKeywords": "11162",
+              "withNetworks": null,
+              "withCompanies": null,
+              "releaseDateGte": null,
+              "releaseDateLte": null,
+              "voteAverageGte": 0,
+              "voteAverageLte": 0,
+              "withOriginCountry": null,
+              "withWatchProviders": null,
+              "withOriginalLanguage": null
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Descobrir TMDB Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": 0,
+            "filters": {
+              "year": null,
+              "withGenres": null,
+              "watchRegion": null,
+              "voteCountGte": 0,
+              "withKeywords": "11162",
+              "withNetworks": null,
+              "withCompanies": null,
+              "releaseDateGte": null,
+              "releaseDateLte": null,
+              "voteAverageGte": 0,
+              "voteAverageLte": 0,
+              "withOriginCountry": null,
+              "withWatchProviders": null,
+              "withOriginalLanguage": null
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/discover/minisseries.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/discover-minisseries.webp"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": null,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collections-streaming",
+    "title": "Streaming",
+    "folders": [
+      {
+        "id": "collections.streaming.netflix",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.netflix",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.netflix",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/netflix.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.netflix",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.netflix",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-netflix.webp"
+      },
+      {
+        "id": "collections.streaming.prime-video",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.prime-video",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.prime-video",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/prime-video.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.prime-video",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.prime-video",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-prime-video.webp"
+      },
+      {
+        "id": "collections.streaming.disney-plus",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.disney-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.disney-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/disney-plus.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.disney-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.disney-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-disney-plus.webp"
+      },
+      {
+        "id": "collections.streaming.hbo-max",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.hbo-max",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.hbo-max",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/hbo-max.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.hbo-max",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.hbo-max",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-hbo-max.webp"
+      },
+      {
+        "id": "collections.streaming.apple-tv",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.apple-tv",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.apple-tv",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/apple-tv.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.apple-tv",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.apple-tv",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-apple-tv.webp"
+      },
+      {
+        "id": "collections.streaming.paramount-plus",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.paramount-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.paramount-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/paramount-plus.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.paramount-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.paramount-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-paramount-plus.webp"
+      },
+      {
+        "id": "collections.streaming.crunchyroll",
+        "title": "Crunchyroll",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.crunchyroll",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.crunchyroll",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/crunchyroll.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.crunchyroll",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.crunchyroll",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-crunchyroll.webp"
+      },
+      {
+        "id": "collections.streaming.discovery-plus",
+        "title": "Discovery+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.discovery-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.discovery-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/discovery-plus.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.discovery-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.discovery-plus",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-discovery-plus.webp"
+      },
+      {
+        "id": "collections.streaming.starz",
+        "title": "Starz",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.starz",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.starz",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/streaming/starz.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.streaming.starz",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.streaming.starz",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/streaming-starz.webp"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": null,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collections-genres",
+    "title": "Gêneros",
+    "folders": [
+      {
+        "id": "collections.genres.action",
+        "title": "Ação",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Action",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.action",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "movie",
+            "genre": "Adventure",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.adventure",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Action & Adventure",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.action-adventure",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/action.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Action",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.action",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "movie",
+            "genre": "Adventure",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.adventure",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Action & Adventure",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.action-adventure",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-action.webp"
+      },
+      {
+        "id": "collections.genres.fantasy",
+        "title": "Fantasia e Ficção",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.fantasy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "movie",
+            "genre": "Science Fiction",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.science-fiction",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Sci-Fi & Fantasy",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.sci-fi-fantasy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/fantasy.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.fantasy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "movie",
+            "genre": "Science Fiction",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.science-fiction",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Sci-Fi & Fantasy",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.sci-fi-fantasy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-fantasy.webp"
+      },
+      {
+        "id": "collections.genres.drama",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Drama",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.drama",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Drama",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.drama",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/drama.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Drama",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.drama",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Drama",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.drama",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-drama.webp"
+      },
+      {
+        "id": "collections.genres.comedy",
+        "title": "Comédia",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Comedy",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.comedy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Comedy",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.comedy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/comedy.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Comedy",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.comedy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Comedy",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.comedy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-comedy.webp"
+      },
+      {
+        "id": "collections.genres.thriller",
+        "title": "Suspense",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Thriller",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.thriller",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/thriller.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Thriller",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.thriller",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-thriller.webp"
+      },
+      {
+        "id": "collections.genres.crime",
+        "title": "Crime",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Crime",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.crime",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Crime",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.crime",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/crime.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Crime",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.crime",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Crime",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.crime",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-crime.webp"
+      },
+      {
+        "id": "collections.genres.horror",
+        "title": "Terror",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Horror",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.horror",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/horror.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Horror",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.horror",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-horror.webp"
+      },
+      {
+        "id": "collections.genres.romance",
+        "title": "Romance",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Romance",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.romance",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/romance.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Romance",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.romance",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-romance.webp"
+      },
+      {
+        "id": "collections.genres.mystery",
+        "title": "Mistério",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Mystery",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.mystery",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Mystery",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.mystery",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/mystery.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Mystery",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.mystery",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Mystery",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.mystery",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-mystery.webp"
+      },
+      {
+        "id": "collections.genres.animation",
+        "title": "Animação",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.animation",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Animation",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.animation",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/animation.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.animation",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Animation",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.animation",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-animation.webp"
+      },
+      {
+        "id": "collections.genres.anime",
+        "title": "Anime",
+        "sources": [
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.airing",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.upcoming",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "Monday",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.schedule",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "Spring 2026",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.seasons",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.80sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.90sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.00sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.10sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.20sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "Action",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.genres",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "Madhouse",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.studios",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.top_movies",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.top_series",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.most_favorites",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.most_popular",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "mal.top_anime",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/anime.webp",
+        "catalogSources": [
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.airing",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.upcoming",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "Monday",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.schedule",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "Spring 2026",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.seasons",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.80sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.90sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.00sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.10sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.20sDecade",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "Action",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.genres",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "Madhouse",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.studios",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.top_movies",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.top_series",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.most_favorites",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.most_popular",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "anime",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "mal.top_anime",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-anime.webp"
+      },
+      {
+        "id": "collections.genres.family",
+        "title": "Família",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Family",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.family",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Kids",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.kids",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/family.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Family",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.family",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Kids",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.kids",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-family.webp"
+      },
+      {
+        "id": "collections.genres.history",
+        "title": "História e Guerra",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "History",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.history",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "movie",
+            "genre": "War",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.war",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "War & Politics",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.war-politics",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/history.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "History",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.history",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "movie",
+            "genre": "War",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.war",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "War & Politics",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.war-politics",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-history.webp"
+      },
+      {
+        "id": "collections.genres.documentary",
+        "title": "Documentários",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Documentary",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.documentary",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Documentary",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.documentary",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/documentary.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Documentary",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.documentary",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Documentary",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.documentary",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-documentary.webp"
+      },
+      {
+        "id": "collections.genres.music",
+        "title": "Música",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Music",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.music",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/music.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Music",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.music",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-music.webp"
+      },
+      {
+        "id": "collections.genres.western",
+        "title": "Faroeste",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Western",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.western",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Western",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.western",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/western.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Western",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.genres.western",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Western",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.western",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-western.webp"
+      },
+      {
+        "id": "collections.genres.reality",
+        "title": "Reality",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "Reality",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.reality",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Soap",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.soap",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/genres/reality.webp",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Reality",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.reality",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "Soap",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.genres.soap",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/genres-reality.webp"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": null,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collections-themes",
+    "title": "Temas",
+    "folders": [
+      {
+        "id": "collections.themes.time-travel",
+        "title": "Viagem no Tempo",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.time-travel",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.time-travel",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/time-travel.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.time-travel",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.time-travel",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-time-travel.webp"
+      },
+      {
+        "id": "collections.themes.revenge",
+        "title": "Vingança",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.revenge",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.revenge",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/revenge.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.revenge",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.revenge",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-revenge.webp"
+      },
+      {
+        "id": "collections.themes.spy",
+        "title": "Espionagem",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.spy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.spy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/spy.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.spy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.spy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-spy.webp"
+      },
+      {
+        "id": "collections.themes.magic",
+        "title": "Magia",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.magic",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.magic",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/magic.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.magic",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.magic",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-magic.webp"
+      },
+      {
+        "id": "collections.themes.k-drama",
+        "title": "K-Drama",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.k-drama",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.k-drama",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/k-drama.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.k-drama",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.k-drama",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-k-drama.webp"
+      },
+      {
+        "id": "collections.themes.treasure-hunt",
+        "title": "Caça ao Tesouro",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.treasure-hunt",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.treasure-hunt",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/treasure-hunt.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.treasure-hunt",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.treasure-hunt",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-treasure-hunt.webp"
+      },
+      {
+        "id": "collections.themes.romantic-comedy",
+        "title": "Comédia Romântica",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.romantic-comedy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.romantic-comedy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/romantic-comedy.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.romantic-comedy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.romantic-comedy",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-romantic-comedy.webp"
+      },
+      {
+        "id": "collections.themes.coming-of-age",
+        "title": "Amadurecimento",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.coming-of-age",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.coming-of-age",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/coming-of-age.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.coming-of-age",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.coming-of-age",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-coming-of-age.webp"
+      },
+      {
+        "id": "collections.themes.superhero",
+        "title": "Super-Heróis",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.superhero",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.superhero",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/superhero.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.superhero",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.superhero",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-superhero.webp"
+      },
+      {
+        "id": "collections.themes.space",
+        "title": "Espaço",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.space",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.space",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/space.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.space",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.space",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-space.webp"
+      },
+      {
+        "id": "collections.themes.martial-arts",
+        "title": "Artes Marciais",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.martial-arts",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.martial-arts",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/martial-arts.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.martial-arts",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.martial-arts",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-martial-arts.webp"
+      },
+      {
+        "id": "collections.themes.vampire",
+        "title": "Vampiros",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.vampire",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.vampire",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/vampire.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.vampire",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.vampire",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-vampire.webp"
+      },
+      {
+        "id": "collections.themes.satire",
+        "title": "Sátira",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.satire",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.satire",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/themes/satire.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.theme.satire",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.theme.satire",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/themes-satire.webp"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": null,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collections-studios",
+    "title": "Estúdios",
+    "folders": [
+      {
+        "id": "collections.studios.marvel",
+        "title": "Marvel",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.marvel",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.marvel",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/marvel.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.marvel",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.marvel",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-marvel.webp"
+      },
+      {
+        "id": "collections.studios.dc",
+        "title": "DC",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.dc",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.dc",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/dc.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.dc",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.dc",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-dc.webp"
+      },
+      {
+        "id": "collections.studios.pixar",
+        "title": "Pixar",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.pixar",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.pixar",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/pixar.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.pixar",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.pixar",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-pixar.webp"
+      },
+      {
+        "id": "collections.studios.lucasfilm",
+        "title": "Lucasfilm",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.lucasfilm",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.lucasfilm",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/lucasfilm.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.lucasfilm",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.lucasfilm",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-lucasfilm.webp"
+      },
+      {
+        "id": "collections.studios.ghibli",
+        "title": "Studio Ghibli",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.ghibli",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.ghibli",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/ghibli.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.ghibli",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.ghibli",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-ghibli.webp"
+      },
+      {
+        "id": "collections.studios.dreamworks",
+        "title": "DreamWorks",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.dreamworks",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.dreamworks",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/dreamworks.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.dreamworks",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.dreamworks",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-dreamworks.webp"
+      },
+      {
+        "id": "collections.studios.cartoon-network",
+        "title": "Cartoon Network",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.cartoon-network",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.cartoon-network",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/cartoon-network.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.cartoon-network",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.cartoon-network",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-cartoon-network.webp"
+      },
+      {
+        "id": "collections.studios.nickelodeon",
+        "title": "Nickelodeon",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.nickelodeon",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.nickelodeon",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/studios/nickelodeon.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.studios.nickelodeon",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.studios.nickelodeon",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/studios-nickelodeon.webp"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": null,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collections-decades",
+    "title": "Décadas",
+    "folders": [
+      {
+        "id": "collections.decades.2020s",
+        "title": "Anos 2020",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.2020s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.2020s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/2020s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.2020s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.2020s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-2020s.webp"
+      },
+      {
+        "id": "collections.decades.2010s",
+        "title": "Anos 2010",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.2010s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.2010s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/2010s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.2010s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.2010s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-2010s.webp"
+      },
+      {
+        "id": "collections.decades.2000s",
+        "title": "Anos 2000",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.2000s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.2000s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/2000s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.2000s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.2000s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-2000s.webp"
+      },
+      {
+        "id": "collections.decades.1990s",
+        "title": "Anos 90",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1990s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1990s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1990s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1990s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1990s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1990s.webp"
+      },
+      {
+        "id": "collections.decades.1980s",
+        "title": "Anos 80",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1980s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1980s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1980s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1980s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1980s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1980s.webp"
+      },
+      {
+        "id": "collections.decades.1970s",
+        "title": "Anos 70",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1970s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1970s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1970s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1970s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1970s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1970s.webp"
+      },
+      {
+        "id": "collections.decades.1960s",
+        "title": "Anos 60",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1960s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1960s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1960s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1960s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1960s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1960s.webp"
+      },
+      {
+        "id": "collections.decades.1950s",
+        "title": "Anos 50",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1950s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1950s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/decades/1950s.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.decades.1950s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.decades.1950s",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/decades-1950s.webp"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": null,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collections-world",
+    "title": "Cinema do Mundo",
+    "folders": [
+      {
+        "id": "collections.world.brazilian",
+        "title": "Brasil",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.brazilian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.brazilian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/brazilian.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.brazilian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.brazilian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-brazilian.webp"
+      },
+      {
+        "id": "collections.world.latin-american",
+        "title": "América Latina",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.latin-american",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.latin-american",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/latin-american.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.latin-american",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.latin-american",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-latin-american.webp"
+      },
+      {
+        "id": "collections.world.korean",
+        "title": "Coreia",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.korean",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.korean",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/korean.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.korean",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.korean",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-korean.webp"
+      },
+      {
+        "id": "collections.world.japanese",
+        "title": "Japão",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.japanese",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.japanese",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/japanese.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.japanese",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.japanese",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-japanese.webp"
+      },
+      {
+        "id": "collections.world.french",
+        "title": "França",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.french",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.french",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/french.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.french",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.french",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-french.webp"
+      },
+      {
+        "id": "collections.world.spanish",
+        "title": "Espanha",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.spanish",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.spanish",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/spanish.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.spanish",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.spanish",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-spanish.webp"
+      },
+      {
+        "id": "collections.world.italian",
+        "title": "Itália",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.italian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.italian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/italian.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.italian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.italian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-italian.webp"
+      },
+      {
+        "id": "collections.world.german",
+        "title": "Alemanha",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.german",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.german",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/german.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.german",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.german",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-german.webp"
+      },
+      {
+        "id": "collections.world.nordic",
+        "title": "Países Nórdicos",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.nordic",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.nordic",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/nordic.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.nordic",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.nordic",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-nordic.webp"
+      },
+      {
+        "id": "collections.world.indian",
+        "title": "Índia",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.indian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.indian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/indian.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.indian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.indian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-indian.webp"
+      },
+      {
+        "id": "collections.world.chinese",
+        "title": "China",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.chinese",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.chinese",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/chinese.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.chinese",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.chinese",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-chinese.webp"
+      },
+      {
+        "id": "collections.world.russian",
+        "title": "Rússia",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.russian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.russian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/russian.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.russian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.russian",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-russian.webp"
+      },
+      {
+        "id": "collections.world.turkish",
+        "title": "Turquia",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.turkish",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.turkish",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/world/turkish.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.movie.world.turkish",
+            "catalogName": null,
+            "addonBaseUrl": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "addonId": "aio-metadata",
+            "addonName": null,
+            "catalogId": "tmdb.discover.series.world.turkish",
+            "catalogName": null,
+            "addonBaseUrl": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/HenriqueSBueno/nuvio-premium-collections@v1/art/color/hero/world-turkish.webp"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": null,
+    "focusGlowEnabled": false
+  }
+]
